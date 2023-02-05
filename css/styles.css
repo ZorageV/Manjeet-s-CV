@@ -26,3 +26,7 @@ img{
 img:hover{
     background-color: black;
 }
+.textbox{
+    background-color: azure;
+    color: black;
+}
