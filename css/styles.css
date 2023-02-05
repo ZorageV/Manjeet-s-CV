@@ -1,0 +1,28 @@
+body{
+    background-color: black;
+}
+.heading{
+    color: bisque;
+    font-size: 50px;
+}
+.text{
+    color: aliceblue;
+    font-size: 25px;
+
+}
+.links{
+    color: darkcyan;
+
+}
+.name{
+    color: aqua;
+    font-size: 70px;
+
+}
+img{
+    background-color: ghostwhite;
+    border-radius: 100%;
+}
+img:hover{
+    background-color: black;
+}
